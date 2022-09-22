@@ -1,4 +1,4 @@
-# my-demo-project-3
+# LINS-WebSite
 
 ## Project setup
 ```
