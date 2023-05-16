@@ -1,5 +1,6 @@
-# my-demo-project-3
+# LINS-Website
 
+## final version of rico
 ## Project setup
 ```
 npm install
